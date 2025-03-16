@@ -9,7 +9,11 @@ https://www.lowrance.com/
 ## Software Demo (Under Construction)
 Insert GIFs of the application in action.
 
+## Requirements (Under Construction)
+
 ## Installation Guide (Under Construction)
+
+## Usage (Under Construction)
 
 ## How to Build (Under Construction)
 
